@@ -11,7 +11,8 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso versionamente d
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravandi alterações no repositório local | [Resumos](https://www.io.me)
+| Aula 01 |
+| Gravando alterações no repositório local | [Resumos](https://www.io.me)
 
 ```
 git init
