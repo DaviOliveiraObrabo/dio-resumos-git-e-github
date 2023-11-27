@@ -17,5 +17,5 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso versionamente d
 git init
 ```
 
-## 🔍 Referências 
+## 🔍 Referência 
 - [DIO](https://www.io.me)
